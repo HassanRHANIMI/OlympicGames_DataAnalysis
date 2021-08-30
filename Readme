@@ -1,0 +1,165 @@
+---------------------------------------------Data Science practice project with (Python & SQL)------------------------------------------- 
+
+You are a data scientist working for a data analytics firm.  Your firm has explored a multitude of data sources and is tasked with providing key insights that your clients can make actionable. Your manager has asked you to provide some data analytics guidance for one of the firm’s clients.
+
+In a typical scenario, you would iteratively work with your client to understand the data wanting to be analyzed.  Having a solid understanding of the data and any underlying assumptions present is crucial to the success of a data analysis project.  However, in this case, you will need to do a little more of the “heavy lifting”.
+
+
+## Milestone 1 :_________________________________________________________________________________________________________________________
+
+    To begin, you will prepare a project proposal detailing: 
+
+    The questions we are wanting to answer, 
+    initial hypothesis about the data relationships, and 
+    the approach you will take to get your answers.  
+
+    NOTE: The proposal is just a plan for how we will travel.  
+    It’s there to help keep you on your path by keeping the end goal in mind.
+    You will then execute your plan and in the end present your findings in a month to your management.
+
+    The project proposal you will develop will guide you where you want to go, but may change along the way; and that’s OK!  
+    To kick things off you will need to:
+
+        Explore and understand your data
+        Develop an Entity Relationship Diagram (ERD)
+
+    For this milestone, you will work on this two key steps needed in developing your project proposal:
+
+------ Step 1: Preparing for Your Proposal
+
+        You will document your preparation in developing the project proposal. This includes:
+
+            Which client/dataset did you select and why?
+            Describe the steps you took to import and clean the data.
+            Perform initial exploration of data and provide some screenshots or display some stats of the data you are looking at.
+            Create an ERD or proposed ERD to show the relationships of the data you are exploring. 
+
+------ Step 2: Develop Project Proposal
+
+        In this step, you will need to include the following:
+
+	------ Description
+                Write a 5-6 sentence paragraph describing your project; include who might be interested to learn about your findings. 
+                Who might be your audience?
+
+	------ Questions :
+                Create 2-3 questions that you want to answer with the data:
+                T​his will be easier to answer once you've had an opportunity to look at the data and do some initial exploration.
+                D​on't get carried away on the analysis piece at this stage as there will be more analysis later.
+                D​o focus on key data elements that are present. 
+                For instance: What are they, when are they, who are they about? Do they connect? 
+                How do they connect? Jot down ideas as you brainstorm.
+
+	------ Hypothesis :
+                W​hat are your initial hypotheses about the data?
+
+                W​rite 2-3 assumptions about the data that you'll want to go back to prove or disprove. 
+                You will want to keep them in front of you as you look at the   data to keep them or change them. 
+                You may see relationships that you want to explore and will develop a "belief" about the data.  
+
+                Start documenting what you think you can tell from the data. 
+                What pops up as interesting to you? Most likely it will be interesting to others as well.
+                U​se the discussion boards to discuss with others about your client and the data to brainstorm together.
+
+	------ Approach :
+                Describe in 5-6 sentences w​hat approach you are going to take in order to prove (or disprove) your hypotheses. 
+
+                Think about the following in your answer:  
+                W​hat features (fields/columns) are you going to look at first?
+                I​s there a relationship that exists that you want to explore?
+                W​hat metric/ evaluation measure will you use?
+                
+## Milestone 2 :_________________________________________________________________________________________________________________________
+	you’ve done the prep, now it’s time to dive in and start executing the Project Proposal.  
+	You’ve done the hard part; making the plan.  
+	Now it’s time to get to the fun part!  
+	Start looking at your data and perform some initial stats to get a good feel about what you have available to you.
+
+	In this module you’ll focus your efforts on understanding the ins-and-outs of the data and perform some descriptive stats.
+	This will give you a solid grounding in your dataset and be able to EXPLAIN the data and your findings.
+
+	Clients often (even though they know their data) will ask questions about what you present, 
+	like “How did you come to this conclusion? Does our data cover x, y, and z? I didn’t know that ‘a’ was connected to ‘b’!” 
+	You will face these types of questions and more, so having a solid foundation in what you are analyzing is a must. 
+
+	Keep your questions and your hypotheses in mind; it’s very easy to start down “rabbit-holes” and have to bring yourself 
+	back up for air to realize that you lost time chasing that rabbit.  
+	Nonetheless, it’s part of the journey. What if your hypothesis is wrong? No problem!
+
+	You've discovered a relationship that was thought to be present but isn't! That's great analysis! So now what?
+
+	Yes, sometimes we may go down a path that is a dead-end, and that’s OK.
+	If all your paths are barren, pick a new path, but don’t stop; keep moving forward!
+	Document your discovery … this may be something your client didn’t know or was an assumption they made as well.
+	Insights are insights and data is data … you are not responsible for what the data says, it just is.
+	Your job is to let the data speak to you.
+
+	What if your hypothesis is right? Yay for you
+
+	You discovered something out of your initial analysis of the data, relationships and assumptions that proved to be true. Now what?
+
+	Start thinking about how to characterize that finding? What’s the story you want to tell?
+	How best to tell it? You can think about visually, just key points, a narrative, or use the raw data?
+
+	Iterate on these steps to get a few good hypothesis/questions to answer and prove out.
+	
+## Milestone 3 :_________________________________________________________________________________________________________________________
+
+	Beyond descriptive statistics, there are other things we can do for analysis that vary depending on the kinds of datasets 
+	we encounter.  For example, when looking at text analytics we can apply many models and analytical techniques 
+	(term frequency, topic modeling, etc.). 
+	In addition, at this phase, you can start looking at combinations of features as well as new metrics to further your story 
+	about the data.  Understanding relationships between data can help you create deeper insights into the data being analyzed.   
+
+-- Dive Deeper : Look deeper into the features you are investigating, consider:
+
+    Relationships / Correlation, Pearson Correlation
+    Linear Regression for future prediction (if the relationship is linear)
+    Textual Analysis for TF-IDF (Term Frequency-Inverse Document Frequency; Row-based and column-based, stop-word removal?
+
+	Specify 1-2 correlations you discovered. List the fields that you found to be correlated and describe what you learned 
+	from these correlations.
+	
+-- Go Broader : Expand the features you are investigating. Look for connections/relationships that you may have initially missed.
+
+    What jumps out at you now?
+    Use the descriptive stats to point you to features that you may now want to consider.
+
+	What key terms did you discover in any text analysis, for whom? Any themes?
+	If you are not analyzing text, summarize what other things you are considering in your analysis?
+	
+-- New Metric : Create 1 or 2 new metrics to track relationships of data you discovered. Explain why you created them.
+
+## Milestone 4 :_________________________________________________________________________________________________________________________
+
+	Now that you’ve completed your analysis, it’s time to tell the story.  
+	In this milestone, we will look at different ways you can present your findings.  
+	Many presentations to management are via presentation software such as MS Powerpoint...: bullet points and clipped charts. 
+	
+	Your presentation must include:
+
+-- Build on Project Proposal
+
+	Build on your project proposal (from Milestone 1) that described the client or dataset you chose, 
+	the approach you were going to take, your initial hypotheses, and your initial approach. 
+	Include descriptive stats and any visualizations from your data exploration. 
+	You want to highlight key learnings from your data exploration and any changes to your plan as a results of your findings:
+
+	    Include Client/Hypotheses/Approach
+	    Include artifacts from previous modules
+	    Include results (good and bad paths); Correlations / regressions
+	    Graphics / Visualizations
+
+-- Discuss Insights Discovered
+
+	Discuss results from your diving deeper / going broader analysis). This is where you put your spin on what you’ve discovered
+
+	    Discuss your hypotheses and any direct outcomes from whether you were right or wrong.  
+	    Did you change your hypotheses? Or create new ones?
+	    Discuss any metrics you created and why?
+	    Discuss discoveries about relationships in the data / themes discovered.
+
+-- Recommendations and Actions
+
+	Summarize the insights you found and make recommendations on what your client should do. 
+	What is the next steps or the action that should be taken as a result of your analysis?
