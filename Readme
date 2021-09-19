@@ -1,3 +1,5 @@
+*Source : Capstone project in the specialization "Learn SQL basics for data science" on Coursera
+
 -----------------------------------Data Science practice project with (Python & SQL)----------------------------
 
 As a data scientist working for a data analytics firm.  the firm has explored a multitude of data sources 
@@ -86,7 +88,7 @@ What’s the story you want to tell? How best to tell it? You can think about vi
 
 Iterate on these steps to get a few good hypothesis/questions to answer and prove out.
 	
-## Milestone 3 :_________________________________________________________________________________________________________________________
+## Milestone 3 :_______________________________________________________________________________________________
 
 Beyond descriptive statistics, there are other things we can do for analysis that vary depending 
 on the kinds of datasets we encounter.  For example, when looking at text analytics we can apply 
@@ -114,9 +116,10 @@ may have initially missed.
     What key terms did you discover in any text analysis, for whom? Any themes?
     If you are not analyzing text, summarize what other things you are considering in your analysis?
 	
----- New Metric : Create 1 or 2 new metrics to track relationships of data you discovered. Explain why you created them.
+---- New Metric : Create 1 or 2 new metrics to track relationships of data you discovered. 
+Explain why you created them.
 
-## Milestone 4 :_____________________________________________________________________________________________________
+## Milestone 4 :___________________________________________________________________________________________
 
 Now that you’ve completed your analysis, it’s time to tell the story.  
 Your presentation must include:
@@ -126,7 +129,8 @@ Your presentation must include:
 Build on your project proposal (from Milestone 1) that described the client or dataset you chose, 
 the approach you were going to take, your initial hypotheses, and your initial approach. 
 Include descriptive stats and any visualizations from your data exploration. 
-You want to highlight key learnings from your data exploration and any changes to your plan as a results of your findings:
+You want to highlight key learnings from your data exploration and any changes to your plan as a 
+results of your findings:
 
     Include Client/Hypotheses/Approach
     Include artifacts from previous modules
